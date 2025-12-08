@@ -120,9 +120,9 @@ const App: React.FC = () => {
             </span>
           </h1>
           <p className="max-w-xl mx-auto text-base md:text-lg text-zinc-500 font-light leading-relaxed mb-12 font-mono">
-            > Eliminating distractions...<br/>
-            > Optimizing workflow...<br/>
-            > Neural state: <span className="text-white">FLOW</span>
+            &gt; Eliminating distractions...<br/>
+            &gt; Optimizing workflow...<br/>
+            &gt; Neural state: <span className="text-white">FLOW</span>
           </p>
           
           <div className="flex justify-center">
@@ -148,7 +148,7 @@ const App: React.FC = () => {
             </div>
             <div className="md:col-span-8 text-lg text-zinc-400 leading-relaxed space-y-8 font-light">
               <p>
-                <span className="text-white font-mono text-xl mr-2">> ERROR:</span>
+                <span className="text-white font-mono text-xl mr-2"> ERROR:</span>
                 Modern cognitive throughput is throttled. Constant interrupts fragment the execution thread, causing context-switching latency that degrades output quality.
               </p>
               <p>
