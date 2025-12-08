@@ -207,9 +207,9 @@ export const ProductivityChart: React.FC = () => {
                 <h3 className="font-mono text-xl mb-2 text-white uppercase tracking-tight">Efficiency Delta</h3>
                 <div className="h-[1px] w-12 bg-white mb-4"></div>
                 <p className="text-zinc-500 text-sm mb-6 leading-relaxed font-mono">
-                    > Batching interruptions.<br/>
-                    > Maximizing flow state.<br/>
-                    > Result: <span className="text-white">Exponential output.</span>
+                    &gt; Batching interruptions.<br/>
+                    &gt; Maximizing flow state.<br/>
+                    &gt; Result: <span className="text-white">Exponential output.</span>
                 </p>
                 <div className="flex gap-2 mt-6">
                     <button 
